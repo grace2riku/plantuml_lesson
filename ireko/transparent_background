@@ -1,0 +1,11 @@
+@startuml nested-diagram-example
+:開始;
+:処理
+{{
+    skinparam backgroundcolor transparent
+    :処理1;
+    :処理2;
+}}
+;
+:終了;
+@enduml
