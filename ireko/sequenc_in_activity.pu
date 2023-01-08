@@ -1,0 +1,10 @@
+@startuml nested-diagram-example
+:開始;
+:
+{{
+    skinparam backgroundcolor transparent
+    Alice -> Bob: Send request
+}}
+;
+:終了;
+@enduml
